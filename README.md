@@ -1,2 +1,3 @@
 # git_practice
-My project on GitHub
+Цей рядок додано в гілці feature-2 для тесту Pull Request.
+
